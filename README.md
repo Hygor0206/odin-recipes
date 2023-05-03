@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipes
 
 In this project I'm gonna build a simple recipe site, with some HTML tags and some CSS to make it beauty.
 
