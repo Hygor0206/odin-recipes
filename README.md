@@ -4,4 +4,4 @@ In this project I'm gonna build a simple recipe site, with some HTML tags and so
 
 Here you gonna see some very simple and begginer start to build a site, hope you like it my first try :D
 
-All the images had been taken from the site <a href="www.allrecipes.com">All Recipes</a> all the credits to them
+All the images had been taken from the site <a href="https://www.allrecipes.com">All Recipes</a> all the credits to them
